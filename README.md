@@ -1,12 +1,12 @@
 ~ English ~ 
 - 👋 Hi, I’m @zzadri
-- 👀 I am interested in IT, cybersecurity and networking
+- 👀 I am interested in IT and cybersecurity
 - 🌱 I am currently in BTS in IT
 - 📫 if you try to contact me you can contact me on my email contact@lafargue.info
 
 ~ Français ~ 
 - 👋 Bonjour, je suis @zzadri
-- 👀 Je suis intéressé par l'informatique, la cybersécurité et les réseaux
+- 👀 Je suis intéressé par l'informatique et la cybersécurité
 - 🌱 Je suis actuellement en BTS en informatique
 - 📫 si vous essayez de me contacter vous pouvez me contacter sur mon mail contact@lafargue.info
 <!---
