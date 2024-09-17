@@ -1,13 +1,13 @@
 ~ English ~ 
 - 👋 Hi, I’m @zzadri
 - 👀 I am interested in IT and cybersecurity
-- 🌱 I am currently in BTS in IT
+- 🌱 I am currently in License in IT
 - 📫 if you try to contact me you can contact me on my email contact@lafargue.info
 
 ~ Français ~ 
 - 👋 Bonjour, je suis @zzadri
 - 👀 Je suis intéressé par l'informatique et la cybersécurité
-- 🌱 Je suis actuellement en BTS en informatique
+- 🌱 Je suis actuellement en License en informatique
 - 📫 si vous essayez de me contacter vous pouvez me contacter sur mon mail contact@lafargue.info
   
 <h3 align="left">Languages and Tools:</h3>
@@ -30,7 +30,7 @@
 
 <h4 align="left">Backend Development</h4>
 <p align="left">
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 </p>
 
