@@ -21,6 +21,6 @@
   </div>
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=zzadri&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF" style="width: 45%; min-width: 300px;" alt="GitHub Stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=zzadri&hide_border=true&background=0d1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&dates=9f9f9f&stroke=grey&currStreakNum=FFFFFF" style="width: 45%; min-width: 300px;" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=zzAdri&hide_border=true&background=0d1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&dates=9f9f9f&stroke=grey&currStreakNum=FFFFFF" style="width: 45%; min-width: 300px;" alt="GitHub Streak"/>
   </div>
 </div>
