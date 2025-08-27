@@ -7,11 +7,11 @@
 
 <div align="center">
   <h3>Stack</h3>
-  <img src="https://img.shields.io/badge/Vue.JS%20-111111.svg?&style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/react%20-111111.svg?&style=for-the-badge&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript%20-111111.svg?&style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/TailwindCSS%20-111111.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma%20-111111.svg?&style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.JS%20-111111.svg?&style=for-the-badge&logo=vue.js&logoColor=purple">
+  <img src="https://img.shields.io/badge/react%20-111111.svg?&style=for-the-badge&logo=React&logoColor=purple">
+  <img src="https://img.shields.io/badge/TypeScript%20-111111.svg?&style=for-the-badge&logo=typescript&logoColor=purple">
+  <img src="https://img.shields.io/badge/TailwindCSS%20-111111.svg?&style=for-the-badge&logo=tailwindcss&logoColor=purple">
+  <img src="https://img.shields.io/badge/Figma%20-111111.svg?&style=for-the-badge&logo=figma&logoColor=purple">
 </div>
 
 <div align="center">
