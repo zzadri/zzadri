@@ -7,7 +7,7 @@
 
 <div align="center">
   <h3>Stack</h3>
-  <img src="https://img.shields.io/badge/Next.js%20-111111.svg?&style=for-the-badge&logo=vue&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js%20-111111.svg?&style=for-the-badge&logo=vuejs&logoColor=white">
   <img src="https://img.shields.io/badge/react%20-111111.svg?&style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript%20-111111.svg?&style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/TailwindCSS%20-111111.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white">
