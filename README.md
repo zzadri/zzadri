@@ -1,19 +1,26 @@
-~ English ~ 
-- 👋 Hi, I’m @zzadri
-- 👀 I am interested in IT and cybersecurity
-- 🌱 I am currently in License in IT
-- 📫 if you try to contact me you can contact me on my email contact@lafargue.info
+<div align="center">
+  <h3>Social Media & Contact</h3>
+  <a href="https://github.com/zzAdri" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
 
-~ Français ~ 
-- 👋 Bonjour, je suis @zzadri
-- 👀 Je suis intéressé par l'informatique et la cybersécurité
-- 🌱 Je suis actuellement en License en informatique
-- 📫 si vous essayez de me contacter vous pouvez me contacter sur mon mail contact@lafargue.info
+<div align="center">
+  <h3>Stack</h3>
+  <img src="https://img.shields.io/badge/Next.js%20-111111.svg?&style=for-the-badge&logo=vue&logoColor=white">
+  <img src="https://img.shields.io/badge/react%20-111111.svg?&style=for-the-badge&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript%20-111111.svg?&style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/TailwindCSS%20-111111.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma%20-111111.svg?&style=for-the-badge&logo=figma&logoColor=white">
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zzadri&show_icons=true&locale=en&layout=compact" alt="zzadri" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zzadri&show_icons=true&locale=en" alt="zzadri" /></p>
-<!---
-zzadri/zzadri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <h3>GitHub Stats</h3>
+  <div style="margin-bottom: 10px;">
+    <img src="https://komarev.com/ghpvc/?username=zzAdri&label=PROFILE+VIEWS&color=grey" alt="Profile Views"/>
+  </div>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=zzAdri&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF" style="width: 45%; min-width: 300px;" alt="GitHub Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=zzAdri&hide_border=true&background=0d1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&dates=9f9f9f&stroke=grey&currStreakNum=FFFFFF" style="width: 45%; min-width: 300px;" alt="GitHub Streak"/>
+  </div>
+</div>
